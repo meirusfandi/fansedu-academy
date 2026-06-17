@@ -1,0 +1,6 @@
+{
+  "name": "Fansedu Academy",
+  "description": "Premium ecosystem landing page for Fansedu Academy, showcasing educational programs in math, olympiads, coding, technology, and computing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
